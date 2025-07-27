@@ -39,6 +39,7 @@ body {
 
 .blog-image {
   width: 100%;
+  border-radius: 14px;
   height: auto;
   display: block;
 }
